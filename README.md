@@ -11,7 +11,7 @@ I have tested API of [Petstore](https://petstore.swagger.io/).
 
 🔖 View Report in two ways:
 
-1. You can view the latest Allure report in the branch gh-pages at JavaApiTests/4/data/test-cases
+1. You can view [here](https://github.com/irinaBerendeeva87/JavaApiTests/tree/gh-pages/5/data/test-cases) the latest Allure report in the branch gh-pages
 
 2. By following the link provided at GitHub page:
 
